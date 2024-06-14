@@ -1,19 +1,7 @@
-<h1 align="center">Hi 👋, I'm MUGABO Ronald</h1>
-<h3 align="center">A passionate Backend developer from Rwanda</h3>
-
-<div style="text-align: center;">
-    <img style="width: 200px;" alt="Coding" src="https://th.bing.com/th/id/R.e1f3413bf5036045713341394f617225?rik=3FwJTzg%2b3sqHvg&pid=ImgRaw&r=0">
-</div>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mugaboronald1&label=Profile%20views&color=0e75b6&style=flat" alt="mugaboronald1" /> </p>
 
 - 🌱 I’m currently learning **React Native**
 
 - 💬 Ask me about **Java, Spring Boot, ReactJs**
-
-- 📫 How to reach me **mugaboronald12@gmail.com**
-
-- ⚡ Fun fact **Dragon Ball Z everyday**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
