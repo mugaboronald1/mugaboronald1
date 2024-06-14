@@ -1,7 +1,4 @@
 
-- 🌱 I’m currently learning **React Native**
-
-- 💬 Ask me about **Java, Spring Boot, ReactJs**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
